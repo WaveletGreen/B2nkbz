@@ -1,0 +1,1 @@
+select seq_b2nkbzpzz_id.nextval from dual;
