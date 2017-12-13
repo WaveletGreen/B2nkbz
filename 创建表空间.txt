@@ -1,0 +1,26 @@
+CREATE TEMPORARY TABLESPACE B2nkbz_TEMP
+
+         TEMPFILE 'D:\Teamcenter\B2nkbz\B2nkbz_TEMP.DBF'
+
+         SIZE 10M
+
+         AUTOEXTEND ON
+
+         NEXT 10M MAxSIZE UNLIMITED
+
+         EXTENT MANAGEMENT LOCAL;
+
+
+
+
+CREATE TABLESPACE B2nkbz_data
+
+         dataFILE 'D:\Teamcenter\B2nkbz\B2nkbz_data.DBF'
+
+         SIZE 10M
+
+         AUTOEXTEND ON
+
+         NEXT 10M MAxSIZE UNLIMITED
+
+         EXTENT MANAGEMENT LOCAL;
