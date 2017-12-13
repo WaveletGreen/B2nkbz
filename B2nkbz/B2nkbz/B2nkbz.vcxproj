@@ -170,14 +170,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ActionHandler_B2nkbzpz.cpp" />
-    <ClCompile Include="ActionHandler_B2nkbzpz2.cpp" />
     <ClCompile Include="ActionHandler_B2nkbzzz.cpp" />
     <ClCompile Include="B2nkbz_custom_main.cxx" />
     <ClCompile Include="B2nkbz_DBHelper.cpp" />
     <ClCompile Include="B2nkbz_CommonHandler.cpp" />
     <ClCompile Include="common_itk_util.c" />
     <ClCompile Include="CUST_init_module.cpp" />
-    <ClCompile Include="DBHandler.cpp" />
     <ClCompile Include="Debug.cpp" />
     <ClCompile Include="MethodManager.cpp" />
     <ClCompile Include="ocilib.cxx" />

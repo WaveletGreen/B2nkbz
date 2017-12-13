@@ -74,9 +74,6 @@
     <ClCompile Include="MethodManager.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="DBHandler.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="ocilib.cxx">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -90,9 +87,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="common_itk_util.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ActionHandler_B2nkbzpz2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="B2nkbz_CommonHandler.cpp">
